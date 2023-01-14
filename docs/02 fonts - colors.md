@@ -116,5 +116,18 @@ Temas de cores claro ou escuro referente a cor padrão do Bulma
 ```
 	
 	💡 Para tornar as cores mais claras ou escuras como se fossem temas usa-se: 
-		Exemplos: text-success-light ou text-success-dark. 
-		Ou seja basta adicionar deve-se: light (claro) ou dark (escuro)
+	Exemplos: text-success-light ou text-success-dark. 
+	Ou seja basta adicionar deve-se: light (claro) ou dark (escuro)
+
+
+### Cores de fundo 
+As cores de fundo no Bulma funcinam assim: `has-background-<value>-<teme>`
+- `<value>` é nome da cor correspondende ao que o Bulma possui;
+- `<teme>` (opcional) sendo o tema da cor, se será: dark ou light
+
++ Exemplos:
+```html
+<p class="has-text-primary has-background-light">I'm primary text</p>
+<p class="has-text-warning has-background-danger">I'm warning text</p>
+<p class="has-text-light has-background-primary-dark">I'm light text</p>
+```
