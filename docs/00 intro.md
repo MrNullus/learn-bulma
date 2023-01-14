@@ -2,15 +2,15 @@
 
 ## Intro
 
-- Bulma é um framework CSS para criar sites de modo mais rapido, moderno e responsivo
+- Bulma é um framework CSS para criar sites de modo mais **rapido**, **moderno**, **responsivo** e **open source**.
+
 - Ele é possui: 
-	- Flexbox e Grid Layout
-	- Helpers;
-	- Components;
-	- Customização;
-	- Responsividade
+	- [x] Flexbox e Grid Layout
+	- [x] Helpers;
+	- [x] Components;
+	- [x] Customização;
+	- [x] Responsividade
 
 - Se concentra em trazer apenas o CSS, ou seja, as regras de estilo dos elementos que ele possui
 Por exemplo modals, terá só os estilos dele não contento JavaScrit, assim torna-se mais livre
 a forma que implementamos esse elemento.
-
