@@ -122,6 +122,7 @@ Temas de cores claro ou escuro referente a cor padrão do Bulma
 
 ### Cores de fundo 
 As cores de fundo no Bulma funcinam assim: `has-background-<value>-<teme>`
+	
 - `<value>` é nome da cor correspondende ao que o Bulma possui;
 - `<teme>` (opcional) sendo o tema da cor, se será: dark ou light
 
