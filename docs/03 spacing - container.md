@@ -9,8 +9,8 @@
 #### Padding
 Para mexer nesse espaçamento usa-se a diretiva: `p<direction>-<value>`
 	
-	- `<direction>` direção do padding, se não informado será o `<value>` será colocado em todas as direções do elemento;
-	-  `<value>` valor do padding a ser inserido;
+- `<direction>` direção do padding, se não informado será o `<value>` será colocado em todas as direções do elemento;
+-  `<value>` valor do padding a ser inserido;
 
 ##### Directions 
 - `py-<value>`
