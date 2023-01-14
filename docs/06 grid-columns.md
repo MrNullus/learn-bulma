@@ -119,3 +119,40 @@ Como a grade pode ser dividida em 12 colunas, existem classes de tamanho para ca
 	Cada classe modificadora é nomeada de acordo com quantas colunas você deseja de 12. 
 	Então, se você quiser 7 colunas de 12, use .is-7
 
+- Exemplo:
+```html
+<div class="columns is-vcentered">
+	<div class="column is-3">
+		<h1 class="is-sie-1 title">
+			Jest
+		</h1>
+
+		<h2 class="is-size-2 subtitle">
+			Dark Roast
+		</h2>
+
+		<p>
+			Lorem ipsum, dolor sit amet consectetur, adipisicing elit. Mollitia, veniam, obcaecati. Dicta delectus repellat vel, numquam accusantium rerum.
+		</p>
+	</div>
+
+	<div class="column is-5 has-text-centered">
+		<img 
+			src="https://th.bing.com/th/id/OIP.gWgBZQLOP7jV3xEvoYRcaAHaF2?pid=ImgDet&rs=1" 
+			alt="Coffee Jest Dark Roast" 
+			class="px-6" 
+		/>
+	</div>
+
+	<div class="column is-4">
+		<div class="is-size-4 mb-4">
+			R$ 10,45
+		</div>
+
+		<p class="mb-4">
+			Lorem ipsum dolor sit amet, consectetur, adipisicing elit. Iste saepe voluptates, assumenda.
+		</p>
+	</div>
+</div>
+</div>
+```
